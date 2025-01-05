@@ -22,8 +22,8 @@ A RESTful API for managing todo tasks with JWT authentication built using Node.j
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd todo-api
+git clone https://github.com/avinash-2912/avinash-bytive.git
+cd 
 ```
 
 2. Install dependencies:
